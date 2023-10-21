@@ -1,3 +1,17 @@
+/*
+Input
+The first line of the input contains integer number n
+ (2≤n≤100
+) — the length of string s
+. The second line of the input contains the string s
+ consisting of n
+ capital Latin letters.
+
+Output
+Print the only line containing exactly two capital Latin letters — any two-gram contained in the given string s
+ as a substring (i.e. two consecutive characters of the string) maximal number of times.
+*/
+
 #include<iostream>
 #include<string>
 #include<queue>
